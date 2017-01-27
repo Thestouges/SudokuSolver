@@ -1,0 +1,9 @@
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+c:\users\silentsky\documents\visual studio 2012\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
